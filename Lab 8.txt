@@ -1,0 +1,128 @@
+The average of the temperature over 24 hours is 37.2917
+
+Hour            Temperature             Difference from Average
+1               35                      -2.29167
+
+The average of the temperature over 24 hours is 37.2917
+
+Hour            Temperature             Difference from Average
+2               32                      -5.29167
+
+The average of the temperature over 24 hours is 37.2917
+
+Hour            Temperature             Difference from Average
+3               31                      -6.29167
+
+The average of the temperature over 24 hours is 37.2917
+
+Hour            Temperature             Difference from Average
+4               28                      -9.29167
+
+The average of the temperature over 24 hours is 37.2917
+
+Hour            Temperature             Difference from Average
+5               25                      -12.2917
+
+The average of the temperature over 24 hours is 37.2917
+
+Hour            Temperature             Difference from Average
+6               22                      -15.2917
+
+The average of the temperature over 24 hours is 37.2917
+
+Hour            Temperature             Difference from Average
+7               23                      -14.2917
+
+The average of the temperature over 24 hours is 37.2917
+
+Hour            Temperature             Difference from Average
+8               25                      -12.2917
+
+The average of the temperature over 24 hours is 37.2917
+
+Hour            Temperature             Difference from Average
+9               26                      -11.2917
+
+The average of the temperature over 24 hours is 37.2917
+
+Hour            Temperature             Difference from Average
+10              30                      -7.29167
+
+The average of the temperature over 24 hours is 37.2917
+
+Hour            Temperature             Difference from Average
+11              32                      -5.29167
+
+The average of the temperature over 24 hours is 37.2917
+
+Hour            Temperature             Difference from Average
+12              38                      0.708333
+
+The average of the temperature over 24 hours is 37.2917
+
+Hour            Temperature             Difference from Average
+13              41                      3.70833
+
+The average of the temperature over 24 hours is 37.2917
+
+Hour            Temperature             Difference from Average
+14              43                      5.70833
+
+The average of the temperature over 24 hours is 37.2917
+
+Hour            Temperature             Difference from Average
+15              45                      7.70833
+
+The average of the temperature over 24 hours is 37.2917
+
+Hour            Temperature             Difference from Average
+16              48                      10.7083
+
+The average of the temperature over 24 hours is 37.2917
+
+Hour            Temperature             Difference from Average
+17              52                      14.7083
+
+The average of the temperature over 24 hours is 37.2917
+
+Hour            Temperature             Difference from Average
+18              55                      17.7083
+
+The average of the temperature over 24 hours is 37.2917
+
+Hour            Temperature             Difference from Average
+19              49                      11.7083
+
+The average of the temperature over 24 hours is 37.2917
+
+Hour            Temperature             Difference from Average
+20              44                      6.70833
+
+The average of the temperature over 24 hours is 37.2917
+
+Hour            Temperature             Difference from Average
+21              43                      5.70833
+
+The average of the temperature over 24 hours is 37.2917
+
+Hour            Temperature             Difference from Average
+22              42                      4.70833
+
+The average of the temperature over 24 hours is 37.2917
+
+Hour            Temperature             Difference from Average
+23              49                      11.7083
+
+The average of the temperature over 24 hours is 37.2917
+
+Hour            Temperature             Difference from Average
+24              37                      -0.291667
+
+The lowest of the temperatures is 22
+The hour with the lowest number is 6
+
+The highest of the temperatures is 55
+The hour with the highest number is 18
+
+This was coded by Hakeem Wilson
+Press any key to continue . . .
